@@ -69,7 +69,7 @@ Get Enigmatic up and running on your local machine in just a few steps:
 
 After running the script, you can use the following commands in the terminal:
 
- - `encrypt <text> --key <json file>` : Encrypt the given text using the provided key in JSON format [Key Optional it will automatic generates one].
+ - `encrypt <text> --key <json file>` : Encrypt the given text using the provided key in JSON format [Key is Optional].
 
  - `decrypt <text> --key <json file>` : Decrypt the given text using the provided key in JSON format [Key is Required].
 
