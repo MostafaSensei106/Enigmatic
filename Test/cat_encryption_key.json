@@ -1,0 +1,11 @@
+{
+  "rotors": [
+    "II",
+    "IV",
+    "I"
+  ],
+  "reflector": "B",
+  "ring_settings": "15 23 8",
+  "plugboard": "OV SR XK LD ME IH FC PY QJ NZ",
+  "initial_position": "OXK"
+}

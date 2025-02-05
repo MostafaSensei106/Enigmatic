@@ -1,0 +1,5 @@
+termcolor
+pyfiglet
+rich
+python-enigma
+nltk
