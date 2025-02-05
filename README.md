@@ -34,16 +34,13 @@ Enigmatic is a encryption and decryption tool that simulates the functionality o
 3. **User Interface**:
     - Interactive and colorful terminal-based interface using Rich for styling and Figlet for banner generation.
 
-4. **ARB File Generation**:
-    - Generates ARB files for both source and translated strings.
-
-5. **Logging**:
+4. **Logging**:
     - Detailed logging of activities, errors, and encryption sessions for debugging and auditing.
 
-6. **Random Key Generation**:
+5. **Random Key Generation**:
     - Automatically generates random encryption keys for enhanced security.
 
-8. **NLTK Integration**:
+6. **NLTK Integration**:
     - Text analysis utilizing the NLTK library for word frequencies and entropy calculations.
 
 ## Installation
