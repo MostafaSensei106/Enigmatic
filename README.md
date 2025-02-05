@@ -63,11 +63,9 @@ Get Enigmatic up and running on your local machine in just a few steps:
     ```bash
      pip install -r requirements.txt
      ```
-5. Move script `enigmatic.py`
-
-4. Run the script:
+5. Run the script:
      ```bash
-     python Local_Gen.py
+     python enigmatic.py
      ```
 
 ## How to Use
