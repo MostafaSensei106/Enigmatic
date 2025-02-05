@@ -1,15 +1,16 @@
 <h1 align="center">Enigmatic</h1>
 
-<p align="center"><img src="https://socialify.git.ci/MostafaSensei106/LocaleGen/image?font=KoHo&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138288138%3Fs%3D400%26u%3D286780ccc8581e8e15c37e6e181b7cc4c6e896d1%26v%3D4&name=1&owner=1&pattern=Floating+Cogs&theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/MostafaSensei106/Enigmatic/image?font=KoHo&language=1&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F138288138%3Fv%3D4&name=1&owner=1&pattern=Floating+Cogs&theme=Light" alt="project-image"></p>
 
 <p align="center">
-    <strong>Python Script is an Enigma Machine Tool Encryption | Decryption | Text Analysis</strong>
+    <strong>Enigma Machine Tool | Encryption | Decryption | Text Analysis</strong>
 </p>
 
 <p align="center">
     <a href="#about">About</a> •
     <a href="#features">Features</a> •
     <a href="#installation">Installation</a> •
+    <a href="#how-to-use">How To Use </a> •
     <a href="#contributing">Contributing</a> •
     <a href="#license">License</a>
 </p>
