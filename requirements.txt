@@ -2,4 +2,5 @@ termcolor
 pyfiglet
 rich
 python-enigma
+py-enigma
 nltk
