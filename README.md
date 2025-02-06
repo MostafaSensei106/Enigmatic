@@ -50,7 +50,7 @@ Get Enigmatic up and running on your local machine in just a few steps:
 1. Ensure you have [Python](https://www.python.org/downloads/) installed on your system.
 2. Clone the repository:
      ```bash
-     https://github.com/MostafaSensei106/Enigmatic.git
+     git clone https://github.com/MostafaSensei106/Enigmatic.git
      ```
 3. Navigate to the project directory and install dependencies:
      ```bash
